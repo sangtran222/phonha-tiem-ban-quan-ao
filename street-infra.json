@@ -1,0 +1,15 @@
+{
+  "version": "1.3",
+  "street_name": "ĐẠI LỘ PHỐ NHÀ",
+  "api_endpoint": "/street/api/next-house.php",
+  "assets": {
+    "js_core": "/street/js/street-v1.js",
+    "global_css": "/street/css/style-v1.css"
+  },
+  "ui_settings": {
+    "bar_height": "50px",
+    "bar_bg": "#111111",
+    "accent_color": "#f39c12",
+    "text_color": "#ffffff"
+  }
+}
