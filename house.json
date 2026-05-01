@@ -1,0 +1,345 @@
+{
+    "house_id": "tiem-ban-quan-ao",
+    "owner_id": "1",
+    "template": "house-general",
+    "store_info": {
+        "name": "Shop quần áo",
+        "slogan": "Thời trang cho mọi người"
+    },
+    "contact": {
+        "zalo": "090",
+        "phone": "0903333333",
+        "address": "123 Lê Thánh Tôn, Phường Sài Gòn",
+        "email": "abc@yahoo.com"
+    },
+    "copyright": "© fh h hh hgj",
+    "tags": {
+        "province": "Thành phố Hồ Chí Minh",
+        "category": "Dịch vụ"
+    },
+    "site_color": "#ff6600",
+    "header_background": "#fde047",
+    "menuSettings": {
+        "align": "right",
+        "mobile_mode": "scroll",
+        "layout": "menu-top"
+    },
+    "pages": [
+        {
+            "id": "home",
+            "label": "Trang chủ",
+            "sections": [
+                {
+                    "id": "section_1777389443389_621e8f25d0e88",
+                    "type": "text",
+                    "content": {
+                        "text": "Nội dung mô tả mới. Bạn có thể chỉnh sửa nội dung này ngay lập tức."
+                    }
+                },
+                {
+                    "id": "section_1777389348684_33195a848fa958",
+                    "type": "product",
+                    "layout": {
+                        "variant": "horizontal"
+                    },
+                    "product_ref": "product_1777389348684_356",
+                    "title": "Sản phẩm mẫu",
+                    "show_price": true
+                },
+                {
+                    "type": "product",
+                    "layout": {
+                        "variant": "horizontal"
+                    },
+                    "product_ref": "product_1777167958592_295",
+                    "id": "section_1777167958592_918532ab0097"
+                },
+                {
+                    "id": "section_1777043205066_5303fe6bc7c288",
+                    "type": "text",
+                    "content": {
+                        "title": "",
+                        "text": "Nội dung mô tả mới. Bạn có thể chỉnh sửa nội dung này ngay lập tức."
+                    }
+                },
+                {
+                    "id": "7a582965-96b6-4334-a544-1d98f14d5da5",
+                    "type": "image",
+                    "src": "https:\/\/picsum.photos\/id\/1018\/1200\/360",
+                    "settings": {
+                        "paddingTop": 20,
+                        "paddingBottom": 20,
+                        "background": "",
+                        "textAlign": "center"
+                    }
+                },
+                {
+                    "id": "7a582965-96b6-4334-a544-1d98f14d5da5",
+                    "type": "image",
+                    "src": "https:\/\/picsum.photos\/id\/1018\/1200\/360",
+                    "settings": {
+                        "paddingTop": 20,
+                        "paddingBottom": 20,
+                        "background": "",
+                        "textAlign": "center"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "p1776951443386125",
+            "label": "Sản phẩm",
+            "sections": [
+                {
+                    "id": "section_1777391155710_2c578d115c259",
+                    "type": "product",
+                    "layout": {
+                        "variant": "horizontal"
+                    },
+                    "product_ref": "product_1777391155710_466",
+                    "title": "Sản phẩm mẫu",
+                    "show_price": true
+                },
+                {
+                    "id": "section_1777390984079_eea7a0bad3c4d8",
+                    "type": "product",
+                    "layout": {
+                        "variant": "horizontal"
+                    },
+                    "product_ref": "product_1777390984079_428",
+                    "title": "Sản phẩm mẫu",
+                    "show_price": true
+                },
+                {
+                    "id": "sec_pd_1777365155068_u58dh",
+                    "type": "product",
+                    "product_ref": "product_1777362884835_987"
+                }
+            ],
+            "hidden": true
+        },
+        {
+            "id": "p1777283075651586",
+            "label": "Mục mới",
+            "sections": []
+        },
+        {
+            "id": "p1777398399568589",
+            "label": "Mục mới",
+            "sections": [
+                {
+                    "id": "section_1777398464712_c147442b2180c8",
+                    "type": "line"
+                },
+                {
+                    "id": "section_1777398458959_df25b7e257b5d8",
+                    "type": "product",
+                    "layout": {
+                        "variant": "horizontal"
+                    },
+                    "product_ref": "product_1777398458959_435",
+                    "title": "Sản phẩm mẫu",
+                    "show_price": true
+                }
+            ]
+        }
+    ],
+    "created_at": "2026-05-01 09:04:23",
+    "updated_at": "2026-04-20 09:24:04",
+    "id": "house-5eb352b02182a998",
+    "color_settings": {
+        "header_sticky": false,
+        "header_color": "#fde047",
+        "body_color": "rgb(255, 255, 255)",
+        "body_main_color": "#a33505",
+        "logo_color": "rgb(163, 53, 5)",
+        "logo_size": 15,
+        "logo_position": "left",
+        "header_height": 110,
+        "logo_left_offset": 0,
+        "menu_text_mode": "auto",
+        "menu_bg_mode": "solid",
+        "menu_text_color_mode": "solid",
+        "menu_bg_color": "#774d31"
+    },
+    "product_pool": [
+        {
+            "id": "product_1776707399342_91",
+            "title": "Sản phẩm mẫu",
+            "price": "1.200.000đ",
+            "description": "Mô tả ngắn gọn sản phẩm, điểm nổi bật và ưu đãi hiện tại.",
+            "images": []
+        },
+        {
+            "id": "product_1776707671534_899",
+            "title": "Sản phẩm mẫu",
+            "price": "1.200.000đ",
+            "description": "Mô tả ngắn gọn sản phẩm, điểm nổi bật và ưu đãi hiện tại.",
+            "images": []
+        },
+        {
+            "id": "product_1776707828959_884",
+            "title": "Sản phẩm mẫu",
+            "price": "1.200.000đ",
+            "description": "Mô tả ngắn gọn sản phẩm, điểm nổi bật và ưu đãi hiện tại.",
+            "images": []
+        },
+        {
+            "id": "product_1777167958592_295",
+            "title": "Sản phẩm mẫu",
+            "price": "1.200.000đ",
+            "description": "Mô tả ngắn gọn sản phẩm, điểm nổi bật và ưu đãi hiện tại.123",
+            "images": [
+                "http:\/\/local.2050.vn\/userimg_bd\/26\/04\/28\/1777343930_eb7456d4.jpg"
+            ],
+            "image": "http:\/\/local.2050.vn\/userimg_bd\/26\/04\/28\/1777343930_eb7456d4.jpg"
+        },
+        {
+            "id": "product_1777362884835_987",
+            "title": "Quần dài quá gối",
+            "price": "200.000",
+            "description": "sá",
+            "images": [
+                "http:\/\/local.2050.vn\/userimg_bd\/26\/04\/28\/1777365128_45395f0d.jpg",
+                "http:\/\/local.2050.vn\/userimg_bd\/26\/04\/28\/1777391405_96801aee.jpg"
+            ],
+            "image": "http:\/\/local.2050.vn\/userimg_bd\/26\/04\/28\/1777365128_45395f0d.jpg",
+            "category_ids": [
+                {
+                    "catId": "cat_1777341405897_eyqg8",
+                    "subId": ""
+                }
+            ]
+        },
+        {
+            "id": "product_1777384416270_463",
+            "title": "Sản phẩm mẫu",
+            "price": "1.200.000đ",
+            "description": "Mô tả ngắn gọn sản phẩm, điểm nổi bật và ưu đãi hiện tại.",
+            "images": [],
+            "image": "",
+            "category_ids": []
+        },
+        {
+            "id": "product_1777384416270_947",
+            "title": "Sản phẩm mẫu",
+            "price": "1.200.000đ",
+            "description": "Mô tả ngắn gọn sản phẩm, điểm nổi bật và ưu đãi hiện tại.",
+            "images": [],
+            "image": "",
+            "category_ids": []
+        },
+        {
+            "id": "product_1777384416270_883",
+            "title": "Sản phẩm mẫu",
+            "price": "1.200.000đ",
+            "description": "Mô tả ngắn gọn sản phẩm, điểm nổi bật và ưu đãi hiện tại.",
+            "images": [],
+            "image": "",
+            "category_ids": []
+        },
+        {
+            "id": "product_1777384416270_681",
+            "title": "Sản phẩm mẫu",
+            "price": "1.200.000đ",
+            "description": "Mô tả ngắn gọn sản phẩm, điểm nổi bật và ưu đãi hiện tại.123",
+            "images": [
+                "http:\/\/local.2050.vn\/userimg_bd\/26\/04\/28\/1777343930_eb7456d4.jpg"
+            ],
+            "image": "http:\/\/local.2050.vn\/userimg_bd\/26\/04\/28\/1777343930_eb7456d4.jpg",
+            "category_ids": []
+        },
+        {
+            "id": "product_1777384416271_444",
+            "title": "Quần dài quá gối",
+            "price": "200.000",
+            "description": "sá",
+            "images": [
+                "http:\/\/local.2050.vn\/userimg_bd\/26\/04\/28\/1777365128_45395f0d.jpg"
+            ],
+            "image": "http:\/\/local.2050.vn\/userimg_bd\/26\/04\/28\/1777365128_45395f0d.jpg",
+            "category_ids": [
+                {
+                    "catId": "cat_1777341405897_eyqg8",
+                    "subId": ""
+                }
+            ]
+        },
+        {
+            "id": "product_1777389348684_356",
+            "title": "Sản phẩm mẫu",
+            "price": 1200000,
+            "price_text": "1.200.000đ",
+            "description": "Mô tả ngắn gọn sản phẩm, điểm nổi bật và ưu đãi hiện tại.",
+            "images": [],
+            "sku": "SP48684",
+            "available": true
+        },
+        {
+            "id": "product_1777390984079_428",
+            "title": "Sản phẩm mẫu",
+            "price": 1200000,
+            "price_text": "1.200.000đ",
+            "description": "Mô tả ngắn gọn sản phẩm, điểm nổi bật và ưu đãi hiện tại.",
+            "images": [],
+            "sku": "SP84079",
+            "available": true
+        },
+        {
+            "id": "product_1777391155710_466",
+            "title": "Sản phẩm mẫu",
+            "price": 1200000,
+            "price_text": "1.200.000đ",
+            "description": "Mô tả ngắn gọn sản phẩm, điểm nổi bật và ưu đãi hiện tại.",
+            "images": [],
+            "sku": "SP55710",
+            "available": true
+        },
+        {
+            "id": "product_1777398458959_435",
+            "title": "Sản phẩm mẫu",
+            "price": 1200000,
+            "price_text": "1.200.000đ",
+            "description": "Mô tả ngắn gọn sản phẩm, điểm nổi bật và ưu đãi hiện tại.",
+            "images": [],
+            "sku": "SP58959",
+            "available": true
+        }
+    ],
+    "footer_settings": {
+        "preset": "3col",
+        "columns": 1,
+        "maxBlocksPerColumn": 4,
+        "columnsData": [
+            {
+                "blocks": [
+                    {
+                        "id": "footer_1777277620943_e5d7a6",
+                        "type": "logo",
+                        "title": "",
+                        "text": "",
+                        "links": []
+                    }
+                ]
+            }
+        ]
+    },
+    "product_categories": [
+        {
+            "id": "cat_1777341405897_eyqg8",
+            "name": "Quần áo",
+            "children": [
+                {
+                    "id": "cat_1777341415744_mm3u3",
+                    "name": "Quần dài"
+                }
+            ]
+        },
+        {
+            "id": "cat_1777341422136_wko0v",
+            "name": "Nón",
+            "children": []
+        }
+    ],
+    "_pd_settings": "eyJ2aWV3TW9kZSI6Imxpc3QiLCJwYWdlU2l6ZSI6NCwiX2siOiIifQ=="
+}
